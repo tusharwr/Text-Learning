@@ -1,0 +1,5 @@
+1- There is a single solution file which has both the tasks solution.
+
+2- The solution of pre-processing is input into both the tasks so created only one solution file.
+
+3- The other 2 solution files have just the code.

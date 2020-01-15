@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=Aw77aMLj9uM&t=0s -- good intro wise knowledge
+https://github.com/llSourcell/Time_Series_Prediction/blob/master/Time%20Series.ipynb - Notebook
+https://www.machinelearningplus.com/category/time-series/
